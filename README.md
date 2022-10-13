@@ -7,6 +7,7 @@
 (for stun gun) Self defense is a necessity in our everyday lives. Whether you go on late night walks in downtown or spend your time in the rural side of town, you have to be prepared to defend yourself in a attack on your person. 
 
 # License
-Creative Commons Attribution-ShareAlike CC BY-S. This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+GNU General Public License v2.0
+The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
 
 See Documentation file in this repository for all sources used for this project
