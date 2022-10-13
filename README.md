@@ -1,2 +1,2 @@
-# 411_team8_Project
-411 team 8 project collaboration repository
+# ECE411_Group8
+411 Group 8 Project Collaboration Repository
