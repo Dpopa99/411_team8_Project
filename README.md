@@ -26,8 +26,8 @@ In comparison to other security devices and their features, our device can be pr
 * May have Display to show state of device (Active, Triggered, Inactive)
 
 # System Architecture (Currently in Design)
-![Option 1] https://github.com/Dpopa99/Stun-Gun/blob/1cf66b6ec34d4ff388a511120fdf6c6f7bfc1d21/Option%201.png
-![Option 2] https://github.com/Dpopa99/Stun-Gun/blob/1cf66b6ec34d4ff388a511120fdf6c6f7bfc1d21/Option%202.png
+![Option 1](https://user-images.githubusercontent.com/115724190/196858582-5a1dcb22-82a2-43b2-aa61-d16b79606474.png)
+![Option 2](https://user-images.githubusercontent.com/115724190/196858609-91594342-48de-4b04-a257-43f4444c5be2.png)
 
 # Design Specification
 * Sensor: Door knob movement actuating motion sensor, metal contact to send electric shock
