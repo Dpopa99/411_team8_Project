@@ -35,6 +35,10 @@ In comparison to other security devices and their features, our device can be pr
 * Actuator: High voltage transformer taking input voltage and sending converted voltage at variable frequency chosen shock apparatus. 
 * Power: 9V wall adapter feeding a high voltage transformer 
 
+# Breadboard Prototype
+https://photos.google.com/photo/AF1QipOiiO9RW6UHHwWIMsm-u3WihLRfXX3m03oXX7ev
+https://photos.google.com/photo/AF1QipM9DJYz71L27kFvCnOsnoJ5-Rw0GK408xtW_GXQ
+
 # License
 GNU General Public License v2.0
 The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
