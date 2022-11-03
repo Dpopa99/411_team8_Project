@@ -36,8 +36,15 @@ In comparison to other security devices and their features, our device can be pr
 * Power: 9V wall adapter feeding a high voltage transformer 
 
 # Breadboard Prototype
-https://photos.google.com/photo/AF1QipOiiO9RW6UHHwWIMsm-u3WihLRfXX3m03oXX7ev
-https://photos.google.com/photo/AF1QipM9DJYz71L27kFvCnOsnoJ5-Rw0GK408xtW_GXQ
+![image](https://user-images.githubusercontent.com/115689153/199646462-8e9b4bc8-24c1-4714-a9c9-f2159e9374ba.png)
+![image](https://user-images.githubusercontent.com/115689153/199646475-9283b2f0-f506-44e4-b32a-27f7112a0dc9.png)
+
+* As seen from pictures above, the prototype is about finished and all that is needed to have a fully working prototype is the transformer (parts on their way). Image 1 shows the green LED on while the two door sensors are attached, this indicates that the system is armed and ready to go. In the second image, a red LED is shown, meaning that the door has been triggered and the voltage would be discharged out of the two open prongs that would be if the transformer parts were obtained. 
+* Below is a video showing our working prototype.
+
+https://user-images.githubusercontent.com/115689153/199646883-5c98c29b-ac51-427d-81ff-ae7ff07fe55f.mov
+
+
 
 # License
 GNU General Public License v2.0
