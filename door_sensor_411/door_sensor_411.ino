@@ -3,17 +3,17 @@
 
 
 // LCD pins <--> Arduino pins
-const int rs = 8, en = 9, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
+const int rs = 13, en = 12, d4 = 11, d5 = 10, d6 = 9, d7 = 8;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
-int ledred = 11; //Door Closed Status
-int ledgreen = 12; // Door Open Status
-int sensor = 6; // Door sensor connected to Pin 6 in Arduino
+int ledred = 7; //Door Closed Status
+int ledgreen = 6; // Door Open Status
+int sensor = 2; // Door sensor connected to Pin 6 in Arduino
 //two variables to read state of switch either on or off
 
-int transformer = 10;//Shocking module step up transformer 
-int switchRead = 7;// Read state of switch (to set Arming or disarming)
-int melodyPin,ledblue_buzzer = 13; //LED and buzzer pins (common 5V connection)
+int transformer = 3;//Shocking module step up transformer 
+int switchRead = 4;// Read state of switch (to set Arming or disarming)
+int melodyPin,ledblue_buzzer = 5; //LED and buzzer pins (common 5V connection)
 
 int song = 1;//pick song  1,2, or 3 
 // Christmas songs Source: https://create.arduino.cc/projecthub/joshi/piezo-christmas-songs-fd1ae9
